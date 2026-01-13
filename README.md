@@ -27,46 +27,31 @@ Backend & Frontend specialist focused on **scalable systems**, **RESTful APIs**,
 
 ## 💻 Tech Stack
 
-**Backend**
-<br>
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+<div align="center">
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+### Backend Development
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,java,spring,php,laravel,py,django&perline=10" />
 
-**Data & Databases**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,angular,ts,tailwind,sass,js&perline=6" />
 
-**Cloud & DevOps**
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
 <br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_11g-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-**ML & Analytics**
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,github&perline=6" />
+
+### Data Science & ML
+<img src="https://skillicons.dev/icons?i=py&perline=1" />
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
 
 ---
 
@@ -128,12 +113,17 @@ Backend & Frontend specialist focused on **scalable systems**, **RESTful APIs**,
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<a href="https://github.com/landeo29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=landeo29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landeo29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=ffffff&langs_count=8"/>
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=landeo29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true)
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=landeo29&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=landeo29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8)
+<a href="https://github.com/landeo29">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=landeo29&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6"/>
+</a>
 
 </div>
 
@@ -141,9 +131,13 @@ Backend & Frontend specialist focused on **scalable systems**, **RESTful APIs**,
 
 ## 💬 Let's Connect
 
-- 📧 **Email:** [joslan2906@gmail.com](mailto:joslan2906@gmail.com)
-- 💼 **LinkedIn:** [Joseph Landeo](https://n9.cl/linkedin-josephlandeo)
-- 📍 **Location:** Lima, Peru 🇵🇪
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-joslan2906@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joslan2906@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Joseph_Landeo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://n9.cl/linkedin-josephlandeo)
+[![Location](https://img.shields.io/badge/📍_Location-Lima,_Peru_🇵🇪-3B82F6?style=for-the-badge)]()
+
+</div>
 
 ---
 
