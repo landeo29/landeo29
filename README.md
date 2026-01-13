@@ -24,46 +24,45 @@
 ## 🎯 About Me
 
 Backend & Frontend specialist focused on **scalable systems**, **RESTful APIs**, and **data analytics**. Building end-to-end solutions with clean architecture and modern technologies.
-```yaml
-Current Role: Full Stack Developer @ FOGAPI
-Location: Lima, Peru 🇵🇪
-Experience: 3+ Years
-Focus: Scalable Backend • Interactive Dashboards • Data Engineering
-Learning: Cloud Architecture • Advanced ML • Data Engineering
-```
+
+**📍 Location:** Lima, Peru 🇵🇪  
+**💼 Experience:** 3+ Years in Software Development  
+**🎯 Current Focus:** Scalable Backend Systems • Interactive Dashboards • Data Engineering  
+**📚 Learning:** Cloud Architecture • Advanced ML • Data Engineering Certifications
 
 <br>
 
 ## 💻 Tech Stack
 
-<div align="center">
-
 ### Backend Development
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet,fastapi,nodejs,ts,java,spring,php,laravel,py,django&perline=11" />
 
 ### Frontend Development
+
 <img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,tailwind,sass,vite,js&perline=8" />
 
 ### Databases & Storage
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4" />
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,nginx,git,github&perline=8" />
 
 ### Data Science & ML
+
 <img src="https://skillicons.dev/icons?i=py,tensorflow&perline=2" />
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</div>
 
 <br>
 
