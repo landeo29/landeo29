@@ -27,15 +27,20 @@
 ## 🚀 About Me
 
 Backend & Frontend specialist with strong focus on **scalable systems**, **RESTful APIs**, **data analytics**, and **end-to-end solutions**. Passionate about clean architecture, microservices, and leveraging technology to solve real-world problems.
-```typescript
-const joseph = {
-    location: "Lima, Peru 🇵🇪",
-    currentFocus: ["Scalable Backend Systems", "Interactive Dashboards", "Data Engineering"],
-    specialties: ["API Development", "Database Optimization", "Clean Architecture"],
-    learning: ["Data Engineering", "Cloud Certifications", "Machine Learning"],
-    funFact: "I love combining software engineering with data analytics! 📊"
-};
-```
+
+<div align="center">
+
+| 📍 Location | 🎯 Focus | 💡 Learning |
+|:---:|:---:|:---:|
+| Lima, Peru 🇵🇪 | Scalable Backend Systems | Data Engineering |
+| | Interactive Dashboards | Cloud Certifications |
+| | Database Optimization | Machine Learning |
+
+**💻 Specialties:** API Development • Database Optimization • Clean Architecture
+
+**🎨 Fun Fact:** I love combining software engineering with data analytics! 📊
+
+</div>
 
 ---
 
@@ -56,7 +61,8 @@ const joseph = {
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlserver,oracle,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle 11g"/>
 </p>
 
@@ -121,15 +127,20 @@ const joseph = {
 ---
 
 ## 🎯 Highlights
-```diff
-+ Built production-ready APIs serving thousands of requests
-+ Implemented clean architecture with separation of concerns
-+ Database optimization reducing query time by 40%+
-+ Interactive dashboards with real-time metrics visualization
-+ Security audits and vulnerability fixes using OWASP ZAP
-+ AWS & Azure cloud infrastructure deployment
-+ CI/CD pipeline setup with automated testing
-```
+
+<div align="center">
+
+| 🚀 Achievement | 📈 Impact |
+|:---|:---|
+| **Production-Ready APIs** | Serving thousands of requests daily |
+| **Clean Architecture** | Separation of concerns & maintainability |
+| **Database Optimization** | Query time reduced by 40%+ |
+| **Interactive Dashboards** | Real-time metrics visualization |
+| **Security Audits** | Vulnerability fixes using OWASP ZAP |
+| **Cloud Infrastructure** | AWS & Azure deployment |
+| **CI/CD Pipeline** | Automated testing & deployment |
+
+</div>
 
 ---
 
