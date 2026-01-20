@@ -43,7 +43,7 @@ Backend & Frontend specialist focused on **scalable systems**, **RESTful APIs**,
 <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,py,django&perline=6" />
 
 ### Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb=4" />
 <br>
 <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
